@@ -1,4 +1,6 @@
 # SecretX
+![alt text](https://github.com/raufendro-crypta/SecretX/blob/master/icon.png)
+
 Aplikasi ini menggunakan algoritma AES256-CBC dan aplikasi ini gratis.
 
 ### MacOS Version ###
